@@ -1,0 +1,110 @@
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\obj\Debug\TestePartialView.csprojResolveAssemblyReference.cache
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\TestePartialView.dll.config
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\TestePartialView.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\TestePartialView.pdb
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Antlr3.Runtime.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\EntityFramework.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\EntityFramework.SqlServer.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Google.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Newtonsoft.Json.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Owin.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Helpers.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Mvc.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Optimization.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Razor.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.Deployment.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.Razor.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\WebGrease.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Helpers.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Mvc.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Optimization.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.Razor.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.Deployment.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\System.Web.WebPages.Razor.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Antlr3.Runtime.pdb
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Newtonsoft.Json.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\EntityFramework.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\EntityFramework.SqlServer.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Google.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\obj\Debug\TestePartialView.dll
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\TestePartialView\TestePartialView\obj\Debug\TestePartialView.pdb
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\TestePartialView.dll.config
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\TestePartialView.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\TestePartialView.pdb
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Antlr3.Runtime.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\EntityFramework.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\EntityFramework.SqlServer.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Newtonsoft.Json.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Owin.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Helpers.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Mvc.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Optimization.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Razor.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.Razor.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\WebGrease.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Helpers.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Mvc.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Optimization.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.Razor.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\System.Web.WebPages.Razor.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Antlr3.Runtime.pdb
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Newtonsoft.Json.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\EntityFramework.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\EntityFramework.SqlServer.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\obj\Debug\TestePartialView.csprojResolveAssemblyReference.cache
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\obj\Debug\TestePartialView.dll
+C:\Users\thiago.maturana\Documents\Projetos\TestePartialView\TestePartialView\obj\Debug\TestePartialView.pdb

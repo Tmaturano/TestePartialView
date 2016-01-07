@@ -1,0 +1,36 @@
+﻿@model TestePartialView.Models.Teste
+
+@{
+    Layout = null;
+}
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    <label for="Id">Id</label>
+                </th>
+                <th>
+                    <label for="Nome">Nome</label>
+                </th>
+                <th>
+                    <label for="Teste">Teste</label>
+                </th>
+            </tr>
+        </thead>
+        <tbody>          
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.Id);
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.SurName)
+                </td>
+            </tr>            
+        </tbody>
+    </table>    
+</div>
